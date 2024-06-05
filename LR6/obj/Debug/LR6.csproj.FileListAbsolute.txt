@@ -1,0 +1,12 @@
+D:\Учеба\БД\ЛР6\LR6\bin\Debug\LR6.exe.config
+D:\Учеба\БД\ЛР6\LR6\bin\Debug\LR6.exe
+D:\Учеба\БД\ЛР6\LR6\bin\Debug\LR6.pdb
+D:\Учеба\БД\ЛР6\LR6\obj\Debug\LR6.csproj.AssemblyReference.cache
+D:\Учеба\БД\ЛР6\LR6\obj\Debug\LR6.Properties.Resources.resources
+D:\Учеба\БД\ЛР6\LR6\obj\Debug\LR6.csproj.GenerateResource.cache
+D:\Учеба\БД\ЛР6\LR6\obj\Debug\LR6.csproj.CoreCompileInputs.cache
+D:\Учеба\БД\ЛР6\LR6\obj\Debug\LR6.exe
+D:\Учеба\БД\ЛР6\LR6\obj\Debug\LR6.pdb
+D:\Учеба\БД\ЛР6\LR6\obj\Debug\LR6.Form1.resources
+D:\Учеба\БД\ЛР6\LR6\bin\Debug\DB_with_Alcohol.mdf
+D:\Учеба\БД\ЛР6\LR6\bin\Debug\DB_with_Alcohol_log.ldf
